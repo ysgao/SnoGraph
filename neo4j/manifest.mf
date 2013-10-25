@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: uk.nhs.cfh.neo4j
+OpenIDE-Module-Localizing-Bundle: uk/nhs/cfh/neo4j/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

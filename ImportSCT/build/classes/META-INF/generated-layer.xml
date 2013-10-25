@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="uk-nhs-cfh-importsct-ui-ImportSCTTopComponent.shadow">
+                <!--uk.nhs.cfh.importsct.ui.ImportSCTTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/uk-nhs-cfh-importsct-ui-ImportSCTTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="uk_nhs_cfh_importsct_ui">
+                <file name="ImportSCT" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--uk.nhs.cfh.importsct.ui.ImportSCTTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//uk.nhs.cfh.importsct.ui//ImportSCT//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="uk">
+                <folder name="nhs">
+                    <folder name="cfh">
+                        <folder name="importsct">
+                            <folder name="ui">
+                                <file name="ImportSCTTopComponent">
+                                    <!--uk.nhs.cfh.importsct.ui.ImportSCTTopComponent-->
+                                    <attr name="settings.providerPath" stringvalue="xml/lookups//uk_nhs_cfh_importsct_ui/ImportSCT.instance"/>
+                                </file>
+                            </folder>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="uk_nhs_cfh_importsct_ui">
+                <file name="ImportSCT.instance">
+                    <!--uk.nhs.cfh.importsct.ui.ImportSCTTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="uk.nhs.cfh.importsct.ui.ImportSCTTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="uk.nhs.cfh.importsct.ui.ImportSCTTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="ImportSCTTopComponent.settings">
+                <!--uk.nhs.cfh.importsct.ui.ImportSCTTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="uk.nhs.cfh.importsct.ui.ImportSCTTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="editor">
+                <file name="ImportSCTTopComponent.wstcref">
+                    <!--uk.nhs.cfh.importsct.ui.ImportSCTTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="ImportSCTTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="uk-nhs-cfh-importsct-ui-ImportSCTTopComponent.instance">
+                <!--uk.nhs.cfh.importsct.ui.ImportSCTTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="uk.nhs.cfh.importsct.ui.ImportSCTTopComponent"/>
+                <attr name="preferredID" stringvalue="ImportSCTTopComponent"/>
+                <attr
+                    bundlevalue="uk.nhs.cfh.importsct.ui.Bundle#CTL_ImportSCTAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

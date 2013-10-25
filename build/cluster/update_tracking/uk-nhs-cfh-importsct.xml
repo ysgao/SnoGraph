@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="uk.nhs.cfh.importsct">
+    <module_version install_time="1382694107404" last="true" origin="installer" specification_version="1.0">
+        <file crc="1604460785" name="config/Modules/uk-nhs-cfh-importsct.xml"/>
+        <file crc="1972720485" name="modules/uk-nhs-cfh-importsct.jar"/>
+    </module_version>
+</module>

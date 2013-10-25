@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="uk.nhs.cfh.querysct">
+    <module_version install_time="1382694107491" last="true" origin="installer" specification_version="1.0">
+        <file crc="3935884358" name="config/Modules/uk-nhs-cfh-querysct.xml"/>
+        <file crc="651201570" name="modules/uk-nhs-cfh-querysct.jar"/>
+    </module_version>
+</module>

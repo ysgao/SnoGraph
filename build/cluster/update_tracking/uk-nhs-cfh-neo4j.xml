@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="uk.nhs.cfh.neo4j">
+    <module_version install_time="1382694107313" last="true" origin="installer" specification_version="1.0">
+        <file crc="345759761" name="config/Modules/uk-nhs-cfh-neo4j.xml"/>
+        <file crc="2011765453" name="modules/ext/geronimo-jta_1.1_spec-1.1.1.jar"/>
+        <file crc="3413008438" name="modules/ext/lucene-core-3.5.0.jar"/>
+        <file crc="3786445837" name="modules/ext/neo4j-community-1.6.jar"/>
+        <file crc="104023783" name="modules/ext/neo4j-graph-algo-1.6.jar"/>
+        <file crc="2563155989" name="modules/ext/neo4j-graph-matching-1.6.jar"/>
+        <file crc="3011985224" name="modules/ext/neo4j-jmx-1.6.jar"/>
+        <file crc="227426552" name="modules/ext/neo4j-kernel-1.6.jar"/>
+        <file crc="2160184593" name="modules/ext/neo4j-lucene-index-1.6.jar"/>
+        <file crc="2404122580" name="modules/uk-nhs-cfh-neo4j.jar"/>
+    </module_version>
+</module>

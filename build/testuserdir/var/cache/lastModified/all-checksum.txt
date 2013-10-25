@@ -1,0 +1,7 @@
+home=1368362117000
+cluster=1382694107000
+platform=1368362117000
+user=1382694107000
+crc=7
+locale=en_US
+branding=snograph
